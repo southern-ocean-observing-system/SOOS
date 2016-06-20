@@ -8,3 +8,12 @@ Southern Ocean Observing System data projects
 - linked map for voyage plan via GeoJSON
 - submit / edit for plan
 - select / view by project search, geographic bound, date range, search by data type etc. 
+- Make it pretty
+
+## Promising leads
+
+- Shiny as overarching system for web pages and publishing
+- explore leaflet and mapview packages in R for drawing tracks
+- use dplyr and RSQLite as the data base backend
+- use DT to present (and edit?) tabular data within Shiny
+
