@@ -12,7 +12,7 @@ Southern Ocean Observing System data projects
 
 ## Promising leads
 
-- Shiny as overarching system for web pages and publishing
+- Shiny as overarching system for web pages and publishing (Explore gallery for examples with maps you can draw in)
 - explore leaflet and mapview packages in R for drawing tracks
 - use dplyr and RSQLite as the data base backend
 - use DT to present (and edit?) tabular data within Shiny
