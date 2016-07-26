@@ -18,7 +18,8 @@ Southern Ocean Observing System data projects
 - use DT to present (and edit?) tabular data within Shiny
 
 ## Fields for cruise transects
-* Voyage ID (Automatically? generated unique ID for each voyage)
+**Field Name**|**Compulsory?**|**Data Type**|**Notes**
+Voyage ID|Yes|Free Text|Automatically generated unique ID for each voyage)
 * Vehicle Type(Dropdown list: e.g. ship, helicopter, land vehicle)
 * Vehicle Name/Identifier (e.g. Ship name, Rego number)
 * Start Month (compulsory)
