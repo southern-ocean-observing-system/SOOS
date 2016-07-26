@@ -34,7 +34,9 @@ Southern Ocean Observing System data projects
 |Berth availability|Yes|Dropdown menu - Y/N/U||
 |Ocean Sector|Yes| Dropdown menu, illustrated by a map of SOOS regions|Indian Sector, Weddell/Dronning Maud Land, West Antarctic Peninsula, Amundsen/Bellingshausen Sector, Ross Sector| 
 
-## Fields for individual projects 
+## Fields for individual projects
+|**Field Name**|**Compulsory?**|**Data Type**|**Notes**|
+|--------------|---------------|-------------|---------|
 |Voyage ID|Yes|Automatic??| From the cruise transect table|
 |Project ID|Yes|Automatic| Unique Project ID|
 |Project Name|Yes|Free Text||
