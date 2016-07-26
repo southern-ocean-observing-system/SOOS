@@ -21,10 +21,10 @@ Southern Ocean Observing System data projects
 |**Field Name**|**Compulsory?**|**Data Type**|**Notes**|
 |--------------|---------------|-------------|---------|
 |Voyage ID|Yes|Free Text|Automatically generated unique ID for each voyage)|
-* Vehicle Type(Dropdown list: e.g. ship, helicopter, land vehicle)
-* Vehicle Name/Identifier (e.g. Ship name, Rego number)
-* Start Month (compulsory)
-* End Month (compulsory)
+|Vehicle Type|Yes|Dropdown list|e.g. ship, helicopter, airplane, land vehicle, convoy,other|
+|Vehicle Name/Identifier|Yes|Free Text|e.g. Ship name, Rego number|
+|Start Month|Yes|YYYY-MM||
+|End Month|Yes|YYY-MM||
 * Start Date (if known)
 * End Date (if known)
 * Chief Scientist/Principle Contact Name
