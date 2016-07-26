@@ -42,3 +42,8 @@ Southern Ocean Observing System data projects
 * URL for further information
 * Essential Ocean Variable being studied (drop-down list - ability to pick multiple options)
 * Funding status
+
+## Spatial Information
+
+* Layer of common ports
+* Add lines, polygons, points for cruises
