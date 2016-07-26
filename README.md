@@ -25,14 +25,14 @@ Southern Ocean Observing System data projects
 |Vehicle Name/Identifier|Yes|Free Text|e.g. Ship name, Rego number|
 |Start Month|Yes|YYYY-MM||
 |End Month|Yes|YYY-MM||
-* Start Date (if known)
-* End Date (if known)
-* Chief Scientist/Principle Contact Name
-* Chief Scientist/Principle Contact Email
-* Voyage description (free text field)
-* Further information (Free text field)
-* Berth availability (Y/N/U)
-* Ocean Sector (drop down list of five SO regions. Select the region in which the majority of the cruise occurs.) 
+|Start Date|No|YYYY-MM-DD||
+|End Date|No|YYYY-MM-DD||
+|Chief Scientist/Voyage Leader Name|Yes|Free Text|80 chars|
+|Chief Scientist/Voyage Leader Email|Yes|Free Text|80 chars|
+|Voyage description|Yes|Free Text| 1000 chars|
+|Further information|No| Free Text|1000 chars|
+|Berth availability|Yes|Dropdown menu - Y/N/U||
+|Ocean Sector|Yes| Dropdown menu, illustrated by a map of SOOS regions|Indian Sector, Weddell/Dronning Maud Land, West Antarctic Peninsula, Amundsen/Bellingshausen Sector, Ross Sector| 
 
 ## Fields for individual projects 
 * Voyage ID (From the cruise transect table)
